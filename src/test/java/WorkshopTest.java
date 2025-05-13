@@ -13,7 +13,6 @@ import static org.junit.jupiter.api.Assertions.*;
 //import JUNIT 4
 
 
-
 public class WorkshopTest {
 
     private final Workshop tester = new Workshop();
